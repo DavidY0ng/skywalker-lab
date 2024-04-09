@@ -3,7 +3,6 @@
     import { onDestroy, onMount } from 'svelte';
 	import Icon from '@iconify/svelte';
 	import TopNav from '$lib/components/TopNav.svelte';
-	import Box from './box/Box.svelte';
 	import IntersectionObserver from 'svelte-intersection-observer';
 	import { fly, scale, slide } from 'svelte/transition';
 	import { quintOut } from 'svelte/easing';
