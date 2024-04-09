@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body { @apply h-full overflow-hidden; }
+
+h1 {
+	size: 1000px
+}
