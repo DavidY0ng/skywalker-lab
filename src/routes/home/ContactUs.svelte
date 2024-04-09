@@ -18,17 +18,17 @@
 	let contactDetails = [
 		{
 			title: 'Email',
-			details: 'Richie@gmail.com',
+			details: 'lab@skywalker.technology ',
 			icon: 'material-symbols:mail'
 		},
 		{
 			title: 'Phone',
-			details: '012-3456789',
+			details: '+603-48102476',
 			icon: 'mdi:cellphone'
 		},
 		{
 			title: 'Location',
-			details: 'Scott Garden',
+			details: 'No 2-9, The Scott Garden, Jalan Klang Lama, 58000 Kuala Lumpur',
 			icon: 'mdi:location'
 		}
 	];
@@ -43,9 +43,9 @@
 				class="flex  md:flex-row top-0 left-0 lg:items-center w-full h-full lg:justify-between p-[15px] md:p-[30px] text-center md:text-start my-[100px] lg:mt-0"
 			>
 				<div
-					class="flex flex-col items-center w-full md:items-start lg:flex-row lg:justify-between"
+					class="flex flex-col items-center w-full md:items-start lg:flex-row lg:justify-between lg:gap-[60px]"
 				>
-					<div class="flex flex-col  w-full lg:w-[50%]">
+					<div class="flex flex-col  w-full lg:w-[100%]">
 						<div class="lg:mr-[50px] md:text-center mb-[30px]">
 							<div
 								class=" text-white text-[30px] md:text-[35px] lg:text-[45px] xl:text-[40px] font-bold leading-tight md:pt-[25px] lg:text-start "
@@ -74,10 +74,10 @@
 
                     <!-- <span class="hidden lg:flex h-[400px] divider-vertical !border-r-1 !border-primary-500" /> -->
 
-					<div class="flex flex-col items-center w-full lg:w-[80%]">
+					<div class="flex flex-col items-center lg:items-start w-full lg:w-[100%]">
 						<div class="lg:mr-[50px] md:text-center mb-[30px]">
 							<div
-								class=" text-white text-[22px] md:text-[35px] lg:text-[45px] xl:text-[28px] font-bold leading-tight md:pt-[25px]"
+								class=" text-white text-[22px] md:text-[28px] lg:text-[28px] xl:text-[28px] font-bold leading-tight md:pt-[25px]"
 							>
 								Contact Us
 							</div>
