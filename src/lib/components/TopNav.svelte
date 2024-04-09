@@ -17,7 +17,12 @@
     <div class=" top-0 flex justify-between w-full p-5 text-white md:px-[30px]">
 
         <div class="font-bold h1">
-            SKY <span
+            <span class="">
+                SKYWALKER
+            </span>
+             
+            
+            <span
                 class="text-transparent bg-gradient-to-br from-pink-500 to-violet-500 bg-clip-text box-decoration-clone"
                 >LAB</span
             >

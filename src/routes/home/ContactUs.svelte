@@ -50,7 +50,10 @@
 							<div
 								class=" text-white text-[30px] md:text-[35px] lg:text-[45px] xl:text-[40px] font-bold leading-tight md:pt-[25px] lg:text-start "
 							>
-								SKY <span class="text-transparent bg-gradient-to-br from-pink-500 to-violet-500 bg-clip-text box-decoration-clone"
+							<span class="">
+								SKYWALKER
+							</span> 
+							<span class="text-transparent bg-gradient-to-br from-pink-500 to-violet-500 bg-clip-text box-decoration-clone"
                                 >LAB</span
                             >
 							</div>
