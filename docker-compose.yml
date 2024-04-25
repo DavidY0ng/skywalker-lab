@@ -17,7 +17,7 @@ services:
       - '3000:3000' # reflect from expose port to real port
     volumes:
       - ./:/var/www/skywalker/lab
-      - /home/hero/ssl:/home/hero/ssl
+      - ~/ssl:~/ssl
     command: sh -c "npm install && npm run build && pm2-runtime start pm2.json"
     networks:
       appnetwork:
