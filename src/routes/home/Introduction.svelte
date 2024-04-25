@@ -1,5 +1,4 @@
 <script lang='ts'>
-    import Typed from 'typed.js';
     import { onDestroy, onMount } from 'svelte';
 	import Icon from '@iconify/svelte';
 	import TopNav from '$lib/components/TopNav.svelte';

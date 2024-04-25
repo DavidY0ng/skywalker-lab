@@ -7,6 +7,8 @@
     import { fade, } from 'svelte/transition';
     import GoUpButton from "$lib/components/GoUpButton.svelte";
 
+
+
     const scrollNavBar = 500
 	let show = false
 
