@@ -1,0 +1,11 @@
+{
+	"name": "pm2-skywalker-lab",
+	"script": "./build/index.js",
+	"instances": 1,
+	"env": {
+		"NODE_ENV": "development"
+	},
+	"env_production": {
+		"NODE_ENV": "production"
+	}
+}
