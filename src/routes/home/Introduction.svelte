@@ -69,8 +69,8 @@
 					</div>
 					
 					{#if intersecting}
-					<div transition:fly={{ x: 80, duration: 1200, delay: 600 }} class="flex items-center justify-center w-full pb-10 md:items-start ">
-						<img src="/assets/img/introduction/eth.png" alt="bg" class="w-full max-h-[587px] max-w-[587px]" />
+					<div transition:fly={{ x: 80, duration: 1200, delay: 600 }} class="flex items-center justify-center w-full h-[500px] pb-10 md:items-start">
+						<img src="/assets/img/introduction/matrix.gif" alt="bg" class="w-full h-full max-h-[587px] max-w-[587px]" />
 						
 					</div>
 					{:else}
