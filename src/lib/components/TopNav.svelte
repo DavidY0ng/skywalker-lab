@@ -43,7 +43,7 @@
     
         <div class="z-10 items-center hidden gap-8 text-lg lg:flex">
             <a href="/#key-features" class=" hover-underline-animation" on:click|preventDefault={() => scrollToSectionHandler('key-features')}>
-                Key Features
+                Our Solutions
             </a>
             <a href="/#about-us" class="hover-underline-animation" on:click|preventDefault={() => scrollToSectionHandler('about-us')}>
                 About Us

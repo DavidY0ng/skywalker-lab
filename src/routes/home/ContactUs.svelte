@@ -18,7 +18,7 @@
 	let contactDetails = [
 		{
 			title: 'Email',
-			details: 'lab@skywalker.technology ',
+			details: 'halo@skywalkerlab.xyz ',
 			icon: 'material-symbols:mail'
 		},
 		{
