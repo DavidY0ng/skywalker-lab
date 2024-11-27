@@ -16,19 +16,19 @@
 	];
 
 	let contactDetails = [
-		{
-			title: 'Email',
-			details: 'halo@skywalkerlab.xyz ',
-			icon: 'material-symbols:mail'
-		},
-		{
-			title: 'Phone',
-			details: '+603-48102476',
-			icon: 'mdi:cellphone'
-		},
+		// {
+		// 	title: 'Email',
+		// 	details: 'halo@skywalkerlab.xyz ',
+		// 	icon: 'material-symbols:mail'
+		// },
+		// {
+		// 	title: 'Phone',
+		// 	details: '+603-48102476',
+		// 	icon: 'mdi:cellphone'
+		// },
 		{
 			title: 'Location',
-			details: 'No 2-9, The Scott Garden, Jalan Klang Lama, 58000 Kuala Lumpur',
+			details: 'Wisma UOA II, Unite No: 15-13A, UOA Business Centre,Jalan Pinang, 50450, Kuala Lumpur, Malaysia',
 			icon: 'mdi:location'
 		}
 	];
